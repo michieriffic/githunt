@@ -13,8 +13,9 @@ LOCATION:
 4. Festival Pavilion (near Information)
 5. Festival Pavilion (at the back of Github Central)
 6. Gateway Pavilion (2nd floor - near the Github Shop)
-7. Gateway Pavilion (2nd floor - somewhere with Home Automation)
-8. The arc going to Building A - look on your right
+7. Gateway Pavilion (1sd floor - near Career Corner)
+8. Gateway Pavilion (2nd floor - somewhere with Home Automation)
+9. The arc going to Building A - look on your right
 
 
 
