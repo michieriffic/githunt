@@ -12,10 +12,11 @@ LOCATION:
 3. A Juice Shop Van (in front of it)
 4. Festival Pavilion (near Information)
 5. Festival Pavilion (at the back of Github Central)
-6. Gateway Pavilion (2nd floor - near the Github Shop)
-7. Gateway Pavilion (1sd floor - near Career Corner)
-8. The arc going to Building A - look on your right
-
+6. Beside a bridgeway with tables, in between Festival Pavilion and Gateway Pavilion
+7. The arc going to Building A - look on your right
+8. Gateway Pavilion (1st floor - near Career Corner)
+9. Gateway Pavilion (2nd floor - within the Open Source Zone)
+10. Gateway Pavilion (2nd floor - near the Github Shop)
 
 
 
